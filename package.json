@@ -4,6 +4,7 @@
   "description": "",
   "main": "script.js",
   "scripts": {
+    "start": "http-server ./",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/raissacarvalho277/RAISSA-CODE/issues"
   },
-  "homepage": "https://github.com/raissacarvalho277/RAISSA-CODE#readme"
+  "homepage": "https://github.com/raissacarvalho277/RAISSA-CODE#readme",
+  "devDependencies": {
+    "http-server": "^14.0.0"
+  }
 }
