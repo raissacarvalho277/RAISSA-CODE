@@ -2,7 +2,7 @@
   "name": "raissa-code",
   "version": "1.0.0",
   "description": "",
-  "main": "script.js",
+  "main": "index.js",
   "scripts": {
     "start": "http-server ./",
     "test": "echo \"Error: no test specified\" && exit 1"
